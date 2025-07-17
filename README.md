@@ -39,7 +39,7 @@ The model predicts gender with high accuracy and estimates age with low MAE.
 
 ## 📷 Project Summary Image
 
-The image below visualizes sample Images, confusion matrix, and Prediction from the CT scan dataset.
+The image below visualizes sample Images, confusion matrix, and Prediction from the dataset.
 
 <p align="center">
   <img src="Images/Sample Images.png" width="600"/>
